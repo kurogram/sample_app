@@ -1,0 +1,23 @@
+[33mcommit a24777d938a4eefac0512cf977be1ef45d2a71d1[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: EC2 Default User <ec2-user@ip-172-31-14-169.us-east-2.compute.internal>
+Date:   Sun Feb 11 08:49:08 2018 +0000
+
+    Finish static pages
+
+[33mcommit e81a55e1f2736a15d789587151b0e243667037f3[m
+Author: EC2 Default User <ec2-user@ip-172-31-14-169.us-east-2.compute.internal>
+Date:   Sun Feb 11 08:12:11 2018 +0000
+
+    Add a StaticPages controller
+
+[33mcommit e7dc7f6c0e9986c835c676c9c999b8dfd2424370[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: EC2 Default User <ec2-user@ip-172-31-14-169.us-east-2.compute.internal>
+Date:   Sun Feb 11 04:12:13 2018 +0000
+
+    Improve the REDME
+
+[33mcommit 5e73df054cfc7c0503cc0cd479c5ae61b4d462bf[m
+Author: EC2 Default User <ec2-user@ip-172-31-14-169.us-east-2.compute.internal>
+Date:   Sun Feb 11 04:05:46 2018 +0000
+
+    Initial commit
